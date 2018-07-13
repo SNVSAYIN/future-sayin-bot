@@ -1,0 +1,14 @@
+{
+  "name": "Future Sayin",
+  "version": "0.0.1",
+  "description": "A bot for Discord",
+  "author": "SNV_SAYIN",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+    }
+}
